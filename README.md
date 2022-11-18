@@ -1,2 +1,2 @@
 # KubeSecurity
-This project is solely for educational purpose to demonstrate DevSecOps implementation for Kubernetes cluster
+This project is solely for educational purpose to demonstrate DevSecOps implementation for Kubernetes cluster. Testing pipeline
